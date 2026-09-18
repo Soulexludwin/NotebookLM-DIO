@@ -6,7 +6,7 @@
 > **Ferramenta de Aprendizagem Ativa:** Google NotebookLM  
 > **Autor:** Ryan Kaique Silva
 > **LinkedIn:** [[Linkedin](https://www.linkedin.com/in/ryanksilva/)]
-
+> **NotebookLM:** https://notebook.google.com/notebook/855178d1-79c9-42a6-b361-0dffb20d7269
 ## 🎯Objetivos
 
 ### Contexto
@@ -19,23 +19,28 @@ Com o avanço das LLMs, um dos maiores desafios enfrentados na aplicação prát
 - Estruturar um material de consulta rápida e reutilizável para futuras revisões.
 - Revisar os conhecimentos fornecidos.
 
-##FONTES
-1 - Aprenda C++ EM UM VÍDEO (Tutorial Básico de Programação)
+## FONTES
+Aprenda C++ EM UM VÍDEO (Tutorial Básico de Programação)
+
 Link: https://www.youtube.com/watch?v=McbdxZ3Se2U
+
 **Foco:** Introdução prática à linguagem C++ para iniciantes
+
 2 - Curso Completo de Java Do ZERO ao Avançado🔥🔥
 Link: https://www.youtube.com/watch?v=mxDMTtCEPAY
 **Foco:** Conceitos fundamentais do JavaScript e seus ambientes de execução
+
 3 - Curso de PHP para Iniciantes - Com Exercícios e Projeto
 Link: https://www.youtube.com/watch?v=6qafpEI8lcU
 **Foco:** Aprendizado prático de PHP aplicado ao desenvolvimento web e banco de dados
+
 4 - CURSO JAVASCRIPT | Sintaxe básica (Tipos, Variáveis, Loops, Funções, Condicionais)
 Link: https://www.youtube.com/watch?v=mo3fpbW_eTA
 **Foco:** Conceitos fundamentais do JavaScript e seus ambientes de execução
+
 5 - PHP Full Course for free 🐘
 Link: https://www.youtube.com/watch?v=zZ6vybT1HQs
-* **Foco:** Curso completo e aprofundado de PHP cobrindo segurança, sessões e servidor[70]
-
+**Foco:** Curso completo e aprofundado de PHP cobrindo segurança, sessões e servidor
 
 
 
