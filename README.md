@@ -13,9 +13,9 @@
 Com o avanço das LLMs, um dos maiores desafios enfrentados na aplicação prática é o problema das "alucinações" e a falta de dados privados ou atualizados em tempo real. A arquitetura **RAG (Retrieval-Augmented Generation)** surge como uma solução para conectar LLMs a bases de conhecimento externas e Confiáveis.
 
 ### Objetivos de Estudo
-- Compreender a arquitetura e o funcionamento do RAG.
-- Comparar RAG com Fine-Tuning de modelos.
-- Identificar as principais métricas de avaliação de respostas geradas por RAG.
+- Compreender a arquitetura e o funcionamento das linguagens.
+- Comparar as lingagens entre si.
+- Identificar os principais conteúdos das linguagens
 - Estruturar um material de consulta rápida e reutilizável para futuras revisões.
 - Revisar os conhecimentos fornecidos.
 
